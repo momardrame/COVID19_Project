@@ -58,3 +58,4 @@ Analysis performed for COVID-19 cases in Toronto indicates that the outcome of t
 However lack of availability of in-depth data prevents us from deriving further conclusion.
 
 For further analysis, although only aggregated data is available, [World-Wide Data](ML-Model-WorldWide) may help us understand more about COVID-19.
+
