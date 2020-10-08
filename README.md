@@ -2,7 +2,7 @@
 
 # Team-3 COVID19 Analysis 
 
-#### Table of Contents  
+## Table of Contents  
 
 * [Background](#Background)
 * [Project Overview](#project-overview)
