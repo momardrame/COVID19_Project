@@ -1,6 +1,6 @@
 ![header_pic](images/covid.png)
 
-# Team-3 COVID19 Analysis 
+# COVID19 Analysis 
 
 ## Table of Contents  
 
