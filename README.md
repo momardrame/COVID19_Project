@@ -1,4 +1,4 @@
-![header_pic](images/covid.png)
+<img src="images/covid.png" alt="drawing" width="300"/>
 
 # COVID19 Analysis 
 
