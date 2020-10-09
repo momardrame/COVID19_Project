@@ -34,7 +34,7 @@ Some of the questions we are hoping to answer are;
 - Lifestyle: What aspects of individual lifestyle such as weight, behaviour and proper nutrution impacts probability of catching COVID19 or dying from COVID19?
 
 ## Resources
-- **Software:** VS Code, Tableau Public, JupyterLab, pgAdmin 4, Amazon Web Services & Google Slides
+- **Software:** VS Code, Tableau Public, JupyterLab, pgAdmin 4, Amazon Web Services and Google Slides
 - **Languages:** HTML, CSS, Python, & PostgreSQL
 
 ## Data Source and Database
